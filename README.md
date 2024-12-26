@@ -2,25 +2,31 @@
 
 ## **Description**
 
-The Number System Converter is a Python application built using tkinter that allows users to convert numbers between various bases (Binary, Decimal, Octal, and Hexadecimal). The graphical user interface (GUI) makes it easy and intuitive to perform conversions between these systems.
+ 
+The Number System Converter is a Python application designed with a graphical user interface (GUI) using tkinter. 
+It allows users to seamlessly convert numbers between various bases, including **Binary** 🔢, **Decimal** 📊, 
+**Octal** 🌀, and **Hexadecimal** 0x. The intuitive design simplifies the process, making it accessible to both 
+beginners and experienced users. 
+ 
 
 ---
 
 ## **Features**
 
-- Convert between Binary, Decimal, Octal, and Hexadecimal systems.  
-- User-friendly graphical interface using tkinter.  
-- Handles errors gracefully with informative messages.
+ 
+- **Conversion Options**: Supports conversion between Binary 🔢, Decimal 📊, Octal 🌀, and Hexadecimal 0x systems.  
+- **Graphical Interface**: Designed using tkinter for a smooth and user-friendly experience. ✨  
+- **Error Handling**: Provides informative messages to handle invalid inputs or conversion errors gracefully. 🚫
+ 
 
 ---
 
 ## **Installation**
 
-1. Clone the repository or download the Python script from GitHub.
-
-2. Ensure you have Python installed on your system.
-
-3. Run the script:
+ 
+1. **Clone the repository** or download the Python script from GitHub:
 
    ```bash
-   python NumverConversion.py
+   git clone https://github.com/Samnang1111/Number-System-Converter.git
+   cd Number-System-Converter
+
